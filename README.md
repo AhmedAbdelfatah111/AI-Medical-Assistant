@@ -5,7 +5,7 @@ Welcome to the **AI-Powered Medical Assistant** — a next-generation healthcare
 
 ## 📽️ Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Demo]]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/Vhu92XtZGNQ?si=BRoovtVgJ_kpqrnG))
 
 ---
 
